@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hasnain Ali</h1>
 <h3 align="center">A passionate frontend developer And Agentic AI Engineer</h3>
 
+<img align="center" height= "400" width="400" src="https://scontent.fkhi16-1.fna.fbcdn.net/v/t39.30808-6/463481743_1741295243358303_2393701005512347681_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeH3AAuBAO34d3_9c6CkdnGyM_u9n5gemQUz-72fmB6ZBXMdVdz3EOMBmAT9_9FfDQieGRDhWj6UmPRjmtEfCgf8&_nc_ohc=uG0YwO84l40Q7kNvgFnRRc8&_nc_oc=AdgzaSvZnSuCElYpy0XR4FrRQ7ecRRTp3g-0efsiPilAn1U952hyKE-NSKHjlU2su-I&_nc_zt=23&_nc_ht=scontent.fkhi16-1.fna&_nc_gid=AJVwNB4GKNo3orzC8vxQl_e&oh=00_AYCoSteBhqQbtDLLUkq0u-IWNNEqj72VhlHmg_UFL-6oJA&oe=67B2E1B0" alt="hasnaincodehub" />
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasnaincodehub" alt="hasnaincodehub" /></a> </p>
 
 - 🔭 I’m currently working on AI Agents [Helpful Assistant](https://hasnain-s-assistant.streamlit.app/)
