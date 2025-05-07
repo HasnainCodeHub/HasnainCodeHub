@@ -3,7 +3,6 @@
 
 <img align="center" height= "400" width="400" src="https://media.licdn.com/dms/image/v2/D4D03AQH67VE1VqSJTA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1729280830799?e=1752105600&v=beta&t=A9Jye2qFoUTeuK394Zpou86XzPo4qMlSi5BxAX96Dbk" alt="hasnaincodehub" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasnaincodehub" alt="hasnaincodehub" /></a> </p>
 
 - 🔭 I’m currently working on AI Agents [Helpful Assistant](https://hasnain-s-assistant.streamlit.app/)
 
