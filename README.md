@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on AI Agents [
 
-- 🌱 I’m currently learning Agentic AI **Langchhain Langgraph Crewai Openai Agent Sdk And Daca Cesign Patterns**
+- 🌱 I’m currently learning Agentic AI **Langchain Langgraph Crewai Openai Agent Sdk And Daca design Patterns**
 
 - 👯 I’m looking to collaborate on **Agentic Projects**
 
