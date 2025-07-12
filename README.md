@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hasnain Ali</h1>
 <h3 align="center">A passionate frontend developer And Agentic AI Engineer</h3>
 
-<img align="center" height= "400" width="400" src="https://media.licdn.com/dms/image/v2/D4D03AQH67VE1VqSJTA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1729280830799?e=1752105600&v=beta&t=A9Jye2qFoUTeuK394Zpou86XzPo4qMlSi5BxAX96Dbk" alt="hasnaincodehub" />
-
-
+<p align="center">
+  <img src="Whatsapp before_enhanced.jpg" alt="WhatsApp Image" width="400" height="400" />
+</p>
 - 🔭 I’m currently working on AI Agents 
 
 - 🌱 I’m currently learning Agentic AI **Langchain Langgraph Crewai Openai Agent Sdk And Daca design Patterns**
